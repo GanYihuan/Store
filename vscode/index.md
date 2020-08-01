@@ -33,7 +33,7 @@ qddanot6eyeuxy2smijvx64e2jwjfklkydvhszoguzbe2ye3s3ua
 - ctrl + / 添加一行注释
 - ctrl + → 移动光标到句尾
 - ctrl + f 查找单词
-- ctrl + alt + f 替换单词
+- ctrl + h 替换单词
 - ctrl + g 向下查找
 - ctrl + u 撤销最后一次光标操作
 - ctrl + shift + → 光标选中到句尾
